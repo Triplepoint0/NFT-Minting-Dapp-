@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0x851062CA0bD121300b0495881AA9046969DE06E8",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x851062ca0bd121300b0495881aa9046969de06e8",
   "NETWORK": {
-    "NAME": "Ethereum",
+    "NAME": "Rinkeby Test Network",
     "SYMBOL": "ETH",
     "ID": 4
   },
